@@ -1,7 +1,7 @@
 ## Hi there, I'm Anshul 👋
 
 ### About Me
-I'm an aspiring data scientist with a knack for identifying business pain points and crafting AI/ML solutions that drive real impact. 
+I'm a Sr. Data Scientist with a knack for identifying business pain points and crafting AI/ML solutions that drive real impact. 
 Passionate about transforming manual processes into efficient workflows, saving valuable time and resources.
 
 ### Professional Achievements 📈 
